@@ -242,3 +242,7 @@ pass that require you to write the following functions in the `index.js` file:
 - [Wikipedia: First-class function](https://en.wikipedia.org/wiki/First-class_function)
 - [JavaScript is Sexy: Higher-order functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/#more-1037)
 - [MDN Function Expression (named vs anonymous functions)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
+
+
+
+
